@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Garra</string>
+    <string name="text_new">Add Animal</string>
+    <string name="text_list">Animal List</string>
+    <string name="text_name">Enter an animal nickname</string>
+    <string name="text_save">Save</string>
+    <string name="text_habits">Habits</string>
+    <string name="text_specie">Specie</string>
+</resources>

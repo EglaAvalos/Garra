@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Garra</string>
+    <string name="text_new">A新しい動物 </string>
+    <string name="text_list">動物に相談する</string>
+    <string name="text_name">動物のニックネームを入力してください</string>
+    <string name="text_save">保つ</string>
+    <string name="text_habits">趣味</string>
+    <string name="text_specie">動物の種類</string>
+</resources>
